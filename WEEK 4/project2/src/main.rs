@@ -17,7 +17,7 @@ fn main() {
     } else if a >= 40.0 {
         println!("your incentive is 1,560,000");
     } else if a >= 30.0 {
-        println!("your incentive is 1,300,000");
+        println!("your incentive is 1,480,000");
     } else if a <= 28.0 {
         println!("your incentive is 1,300,000");
     } else {
